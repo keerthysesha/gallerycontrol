@@ -87,16 +87,12 @@ import android.widget.ImageView;
 public class MainActivity extends Activity {
 
     private Integer[] mImageIds = {
-            R.drawable.img,
-            R.drawable.img_1,
-            R.drawable.img_2,
-            R.drawable.img_3,
-            R.drawable.img_4,
-            R.drawable.img_5,
-            R.drawable.img_6,
-            R.drawable.img_7,
-            R.drawable.img_8,
-            R.drawable.img_9
+            R.drawable.blue_flower,
+            R.drawable.darkpinkflower,
+            R.drawable.lotusflower,
+            R.drawable.purple_flower,
+            R.drawable.red_flower,
+            R.drawable.yellowflower
     };
 
     @Override
@@ -199,10 +195,14 @@ public class CustomizedGalleryAdapter extends BaseAdapter {
 
 ## OUTPUT
 
-![image](https://github.com/AtchayaSundaramoorthy/gallerycontrol/assets/119393516/4c21b312-cbca-4fa6-810f-9618088f8364)
 
+![Screenshot 2024-04-13 211940](https://github.com/keerthysesha/gallerycontrol/assets/125575936/6cd87c94-435d-4bb7-87bc-f63ade6fb433)
 
-![image](https://github.com/AtchayaSundaramoorthy/gallerycontrol/assets/119393516/c36ba2b5-c32b-4170-b46d-6ff78aec9da3)
+![Screenshot 2024-04-13 212006](https://github.com/keerthysesha/gallerycontrol/assets/125575936/ebd986cd-47ae-4f15-9bdc-7c5a5119e632)
+
+![Screenshot 2024-04-13 211955](https://github.com/keerthysesha/gallerycontrol/assets/125575936/558cf373-f978-4e95-a5ef-50a9441df96d)
+
+![Screenshot 2024-04-13 212016](https://github.com/keerthysesha/gallerycontrol/assets/125575936/fe6e2f41-d2e3-464b-ba84-f1cd50c8264d)
 
 
 ## RESULT
